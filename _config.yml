@@ -23,7 +23,7 @@ color:
   brandStrength: 0.8125
   lightness: 0.5
   saturation: 0.5
-  rhythmicContrast: 0.5
+  rhythmicContrast: 1
 purpose:
   - name: shares
     item: null
